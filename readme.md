@@ -1,4 +1,4 @@
-# FantasyIDiap ICCV25 Challenge - Image DeepFake Detection and Binary Classification 👵‍♀️🛡️
+# FantasyIDiap ICCV25 Challenge - Image DeepFake Detection and Binary Classification 
 
 This repository contained a complete pipeline for the **FantasyIDiap ICCV25 Challenge**, which focused on distinguishing between **bonafide** (genuine) and **attack** (forged) identity card images. The project utilized multiple deep learning models, including **ResNet18**, **ResNet50**, and **Swin Transformers**, to address the critical issue of identity document forgery in various digital applications.
 
