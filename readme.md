@@ -159,7 +159,6 @@ DATASET_PATH = "/path/to/FantasyIDiap-ICCV25-Challenge"
 
 ## 📊 Results
 
-* Stored models in `saved_models/`
 * **Highlights**:
 
   * Heatmaps revealed cross-device & cross-attack generalization
